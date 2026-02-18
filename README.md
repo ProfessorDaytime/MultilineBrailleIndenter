@@ -3,8 +3,7 @@ Parametric Blender Geometry Nodes Tool for indenting Braille into a 3D printed s
 
 https://ko-fi.com/professordaytime
 
-https://sethgordon3.gumroad.com/l/fsmay
-
+https://sethgordon3.gumroad.com/l/braille-indenter
 
 
 Grade 1 Braille Indent Tool for 2mm Balls
