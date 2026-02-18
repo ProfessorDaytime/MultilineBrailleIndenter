@@ -13,7 +13,7 @@ Tho I created this in Blender 4.4.3, so it won't work in Older Versions.
 It seemed to work in 5.0 just fine.
 
 -------------------------------------------
---Append to Project------------------------
+Append to Project
 -------------------------------------------
 
 Go to File > Append
@@ -27,7 +27,7 @@ Select Braille_Indenting and Append
 
 
 -------------------------------------------
---How to Use-------------------------------
+How to Use
 -------------------------------------------
 
 Once Appended, go to the Modifier Tab on the object you
@@ -37,9 +37,9 @@ Add Modifier > Geometry Nodes
 
 Click the Dropdown next to New and choose Braille Indenting
 
-------------
--Parameters-
-------------
+-------------------------------------------
+Parameters
+-------------------------------------------
 
 Position 
     Set the Z value to the Z height of the surface you want indented
