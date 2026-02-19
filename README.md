@@ -1,13 +1,27 @@
 # Braille Maker For Blender
 Multi line Braille Indenter
 
-Parametric Blender Geometry Nodes Tool for indenting Braille into a 3D printed surface so 2mm metal balls can be inserted to create braille.
+Create professional braille indentations for 3D printed objects using standard 2mm metal balls. This Parametric Blender Geometry Nodes tool generates multi-line braille patterns optimized for accessibility.
 
-https://ko-fi.com/professordaytime
+Perfect for educators, makers, and accessibility professionals who need to add braille to 3D printed surfaces. Generate accurate Grade 1 braille with proper spacing for 2mm stainless steel or acrylic braille beads. No programming required - fully parametric Geometry Nodes setup.
+
+Use Cases:
+
+ -  Educational tactile maps or graphics
+ -  Accessible signage prototypes
+ -  Custom assistive devices
+ -  Labeled containers and organizers
+ -  Gaming accessibility mods
+
+Keywords: Blender addon, braille generator, tactile graphics, 3D printing accessibility, geometry nodes, assistive technology, ADA signage, braille beads
+
+Also available on Gumroad and Itch.io
 
 https://sethgordon3.gumroad.com/l/braille-indenter
 
 https://professordaytime.itch.io/braille-indenter
+
+https://ko-fi.com/professordaytime
 
 
 Grade 1 Braille Indent Tool for 2mm Balls
