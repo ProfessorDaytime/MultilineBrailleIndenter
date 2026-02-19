@@ -106,3 +106,13 @@ More Text
 
 I have not tested the limits yet, but it should be able to handle
 at least 2 instances on a surface.
+
+SEO
+Blender braille
+3D print braille
+geometry nodes braille
+tactile graphics Blender
+accessible 3D printing
+braille addon Blender
+2mm braille beads
+braille indenter generator
